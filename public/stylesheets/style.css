@@ -1,0 +1,21 @@
+body {
+  padding: 20px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1 {
+  color: midnightblue;
+  font: 30px "Avenir Next", Helvetica, Arial, sans-serif;
+}
+h2 {
+  color: #00B7FF;
+  font: 20px "Avenir Next", Helvetica, Arial, sans-serif;
+}
+h3  {
+  color: cornflowerblue;;
+  font: 16px "Avenir Next", Helvetica, Arial, sans-serif;
+}

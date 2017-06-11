@@ -1,0 +1,4 @@
+.jshintrc
+node_modules
+config.js
+npm-debug.log
